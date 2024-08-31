@@ -448,6 +448,9 @@ font-size: 10px;
   text-align: center;
   width: 600px;
 }
+.call-to-action button i{
+  padding-left: 6px;
+}
  /* blog style */
 
 #blog{
@@ -622,6 +625,9 @@ margin-bottom: 14px;
 }
 .first-section p, .second-section p{
   color: var(--gray400);
+}
+.text{
+  gap: 16px;
 }
 .address-card{
   gap: 12px;
